@@ -1,0 +1,23 @@
+body{
+    margin: 10%
+}
+.container{
+    width: 60vw;
+    height: 70vh;
+    background-color: darkgoldenrod;
+    padding: 5%
+}
+#win, #lost, #tie{
+    width: 80%;
+    height: 5vh;
+    padding: 5px
+}
+#win{
+    background-color: chartreuse;
+}
+#lost{
+    background-color: crimson;
+}
+#tie{
+    background-color: darkgray;
+}
